@@ -1,2 +1,42 @@
-node_modules
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
 .env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build and dependencies
+dist/
+build/
+.cache/
+.tmp/
+coverage/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Postman / Insomnia files 
+*.postman_collection.json
+*.postman_environment.json
+
+#Others
+.prettierignore
+.prettierrc
+prd/

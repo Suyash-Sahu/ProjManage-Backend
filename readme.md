@@ -23,8 +23,7 @@ Future phases will include **Project, Task, Subtask, and Notes management**.
 ### 1️⃣ Clone the Repository
 ```bash
 
-git clone <(https://github.com/Suyash-Sahu/ProjManage-Backend.git)>
-cd projectmanagement
+git clone https://github.com/Suyash-Sahu/ProjManage-Backend.git
 ```
 
 
